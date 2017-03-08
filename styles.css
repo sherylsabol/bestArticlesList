@@ -1,0 +1,17 @@
+h1 {
+  color: purple;
+}
+
+/* styles cursor as a thumbs up over the voting area which is also a thumbs up*/
+.glyphicon-thumbs-up {
+  cursor:pointer;
+}
+/* styles the title and link of posts listed */
+.linkTitleDisplay, .commentBody {
+font-size:20px;
+margin-left:10px;
+}
+
+.form, .addCommentTitle {
+  margin-top:30px;
+}
